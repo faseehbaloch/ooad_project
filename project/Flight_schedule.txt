@@ -1,0 +1,6 @@
+602 lahore karachi 11:00 2:00
+603 islamabad karachi 11:00 2:00
+605 lahore islamabad 1:00 8:00
+607 peshawar dubai 12:00 5:00
+606 faislabad dubai 12:00 5:00
+608 chiniot quetta 12:00 5:00
